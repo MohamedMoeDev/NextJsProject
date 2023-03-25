@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/itc-avant-garde-gothic-std-book');
+
+:root {
+	--main-font: 'ITC Avant Garde Gothic Std', sans-serif;
+}
+.main-font {
+	font-family: var(--main-font);
+}
+.font-itcbold {
+	font-family: ITC Avant Garde Gothic Std Bold, sans-serif;
+}
+.font-itc {
+	font-family: ITC Avant Garde Gothic Std Book, sans-serif;
+}
+#SectionImg3 {
+	background-image: url('/qk1Ove5428LTfOK2VVLvO2YlhJM.jpg');
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+#SectionImg2 {
+	background-image: url('/Mypi3N29ejD3uhbz6uA73OEqj4o.jpg');
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+#SectionImg1 {
+	background-image: url('/g6r91g7KvwpSC71NASUeBA3R4Mk.jpg');
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.font-itcmedium {
+	font-family: ITC Avant Garde Gothic Std Demi, sans-serif;
+}
