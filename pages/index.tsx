@@ -125,7 +125,7 @@ export default function Home() {
 							></div>
 							<div className="p-6">
 								<h3 className="font-itcmedium">Your New Healthy Friend</h3>
-								<p className="mt-2 font-itc text-sm text-[#818181]">
+								<p className="mt-2 font-itc text-sm text-[#818181] opacity-75">
 									Nara suggests the best option from the menu to eat in a
 									restaurant according to your meal plan.
 								</p>
@@ -138,7 +138,7 @@ export default function Home() {
 							></div>
 							<div className="p-6">
 								<h3 className="font-itcmedium">Your New Healthy Friend</h3>
-								<p className="mt-2 font-itc text-sm text-[#818181]">
+								<p className="mt-2 font-itc text-sm text-[#818181] opacity-75">
 									Nara suggests the best option from the menu to eat in a
 									restaurant according to your meal plan.
 								</p>
@@ -151,7 +151,7 @@ export default function Home() {
 							></div>
 							<div className="p-6">
 								<h3 className="font-itcmedium">Your New Healthy Friend</h3>
-								<p className="mt-2 font-itc text-sm text-[#818181]">
+								<p className="mt-2 font-itc text-sm text-[#818181] opacity-75">
 									Nara suggests the best option from the menu to eat in a
 									restaurant according to your meal plan.
 								</p>
