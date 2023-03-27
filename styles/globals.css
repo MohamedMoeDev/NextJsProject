@@ -33,3 +33,9 @@
 .font-itcmedium {
 	font-family: ITC Avant Garde Gothic Std Demi, sans-serif;
 }
+
+@media (min-width: 1024px) {
+	.Imagessection {
+		width: 960px;
+	}
+}
