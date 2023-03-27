@@ -113,12 +113,12 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-				<section className="mt-20 mb-16 sm:mt-32 md:mt-40">
+				<section className="mt-20 Imagessection  mx-auto   mb-16 sm:mt-32 md:mt-40">
 					<h1 className="font-itcbold text-black text-3xl sm:text-4xl lg:text-5xl tracking-tight text-center">
 						Your healthy assistant
 					</h1>
-					<div className="pt-10 lg:w-2/3 mx-auto grid lg:grid-cols-3 gap-x-8 gap-y-8 place-items-center">
-						<div className=" overflow-hidden shadow-lg rounded-xl lg:max-w-7xl md:max-w-lg max-w-md">
+					<div className="pt-10 grid lg:grid-cols-3 gap-x-8 gap-y-8 place-items-center">
+						<div className=" overflow-hidden shadow-lg rounded-xl lg:max-w-7xl  md:max-w-lg max-w-md">
 							<div
 								id="SectionImg1"
 								className="relative h-80 w-full"
@@ -131,7 +131,7 @@ export default function Home() {
 								</p>
 							</div>
 						</div>
-						<div className="shadow-lg over rounded-xl lg:max-w-7xl md:max-w-lg max-w-md">
+						<div className="shadow-lg  rounded-xl overflow-hidden lg:max-w-7xl md:max-w-lg max-w-md">
 							<div
 								id="SectionImg2"
 								className="relative h-80 w-full"
@@ -144,7 +144,7 @@ export default function Home() {
 								</p>
 							</div>
 						</div>
-						<div className="shadow-lg overflow-hidden rounded-xl lg:max-w-7xl mgd:max-w-lg max-w-md">
+						<div className="shadow-lg  rounded-xl overflow-hidden lg:max-w-7xl md:max-w-lg max-w-md">
 							<div
 								className="relative h-80 w-full "
 								id="SectionImg3"
