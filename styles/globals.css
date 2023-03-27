@@ -39,3 +39,11 @@
 		width: 960px;
 	}
 }
+
+.buttonTrial {
+	--tw-bg-opacity: 1;
+	background-color: rgb(0 150 247 / var(--tw-bg-opacity));
+}
+.Desc {
+	color: #818181;
+}

@@ -60,16 +60,16 @@ export default function Home() {
 					<h1 className="font-itcbold text-black  text-4xl sm:text-5xl lg:text-6xl tracking-tight text-center">
 						Your AI nutrition assistant
 					</h1>
-					<p className="font-itc font-bold mt-6 text-md sm:text-lg md:text-xl text-[#818181] text-center max-w-3xl mx-auto">
+					<p className="font-itc font-bold mt-6 Desc  text-md sm:text-lg md:text-xl text-center max-w-3xl mx-auto">
 						Ask questions and get personalized suggestions 24/7 from your AI
 						nutrition coach through SMS (only US &amp; Canada for now). Get
 						recipe suggestions, dine-out options, and food delivery
 						recommendations tailored to your preferences.
 					</p>
 					<div className="mx-auto w-full max-w-md px-2.5 sm:px-0 mt-10">
-						<div className="mt-3">
+						<div className="mt-3 ">
 							<Link
-								className="font-itc block w-full py-3 px-4 rounded-md bg-[#0096F7] text-white text-center"
+								className="font-itc block w-full py-3 px-4 rounded-md buttonTrial text-white text-center"
 								href="https://buy.stripe.com/8wMg0e9vu00v2645ms"
 							>
 								Start your 7-day free trial
